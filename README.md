@@ -1,4 +1,4 @@
-## sEEG-coherence <img src="https://raw.githubusercontent.com/Das-Boot/eason/master/graphical_abstract.png" align="right" width="561px">
+## sEEG-coherence <img src="https://github.com/Xianqing98/sEEG-coherence/blob/main/Screenshot%202022-08-25%20201658.png" align="right" width="400px">
 **Dissociations in semantic relation cognition: Evidence of functional specialization for taxonomic and thematic relations with intracranial EEG oscillatory synchronization analysis**
 
 &emsp;<br/>
