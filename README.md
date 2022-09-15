@@ -1,5 +1,5 @@
 ## sEEG-coherence <img src="https://github.com/Xianqing98/sEEG-coherence/blob/main/Screenshot%202022-08-25%20201658.png" align="right" width="440px">
-**Dissociations in semantic relation cognition: Evidence of functional specialization for taxonomic and thematic relations with intracranial EEG oscillatory synchronization analysis**
+**Spatio-temporal coherence in intracranial EEG during semantic relation processing**
 
 &emsp;<br/>
 - The type of semantic relations knowledge can be categorized as **taxonomic** relations, in which concepts are linked through the shared features (e.g., dog - cat), and **thematic** relations, in which concepts are connected through related events/scenarios (e.g., dog - leash). Existing studies have posited that the **anterior temporal lobe** (**ATL**) is functionally specialized for taxonomic relations and the **inferior parietal lobe** (**IPL**) for thematic relations, known as the **dual-hub model**. 
