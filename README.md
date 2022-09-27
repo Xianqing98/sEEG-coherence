@@ -9,3 +9,5 @@
 
 
 - The present project aims to use **intracranial EEG** provide a further neural indication for dual-hub theory by analyzing the within-region **phase synchronization** of in **ATL**, **IPL**, and two subregions of the **semantic control network** including inferior frontal gyrus (IFG) and posterior middle temporal gyrus (pMTG), as well as cross-region phase synchronization between the semantic hubs and semantic control regions.
+
+
