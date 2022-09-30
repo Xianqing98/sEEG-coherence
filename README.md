@@ -1,7 +1,8 @@
-## sEEG-coherence <img src="https://github.com/Xianqing98/sEEG-coherence/blob/main/semantic%20relations.png" align="right" width="500px">
-
+## sEEG-coherence 
 
 ### Spatio-temporal coherence in intracranial EEG during semantic relation processing
+
+<img src="https://github.com/Xianqing98/sEEG-coherence/blob/main/semantic%20relations.png" width="700px">
 
 <br/>
 
