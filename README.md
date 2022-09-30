@@ -1,11 +1,11 @@
 ## sEEG-coherence <img src="https://github.com/Xianqing98/sEEG-coherence/blob/main/Screenshot%202022-08-25%20201658.png" align="right" width="480px">
 
 ### Spatio-temporal coherence in intracranial EEG during semantic relation processing  
+&emsp;<br/>
 
+&emsp;<br/>
 - The type of semantic relations knowledge can be categorized as **taxonomic** relations, in which concepts are linked through the shared features (e.g., dog - cat), and **thematic** relations, in which concepts are connected through related events/scenarios (e.g., dog - leash). Existing studies have posited that the **anterior temporal lobe** (**ATL**) is functionally specialized for taxonomic relations and the **inferior parietal lobe** (**IPL**) for thematic relations, known as the **dual-hub model**. 
-&emsp;<br/>
 
-&emsp;<br/>
 
 <br/>
 <img src="https://github.com/Xianqing98/sEEG-coherence/blob/main/semantic%20relations.png" align="mid" width="750px">
